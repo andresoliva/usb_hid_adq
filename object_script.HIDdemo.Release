@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\qcustomplot.o
+./release\thread_worker.o
+./release\peak_detection.o
+./release\digital_processing.o
+./release\usb_hid_custom.o
+./release\ui_interface_display.o
+./release\ui_interface_functions.o
+./release\hid.o
+./release\moc_qcustomplot.o
+./release\moc_thread_worker.o
+./release\moc_usb_hid_custom.o
+);
